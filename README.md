@@ -1,4 +1,11 @@
 ## React Native Orientation
+
+## Patch package description
+
+Base on official package react-native-orientation 3.1.3 with problem fix when execute android build process. 
+
+You should replace all usage with react-native-orientation-android-build-fix !!!
+
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
 Listen to device orientation changes in React Native applications and programmatically set preferred orientation on a per screen basis. Works on both Android and iOS.
